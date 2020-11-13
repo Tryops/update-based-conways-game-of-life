@@ -19,4 +19,4 @@ After a certain time the automaton
 Even though the automaton is a very chaotic system, there seem to be some stable "zebra" looking regions on the grid, where no changes seem to occur for some time. 
 I haven't seen other specific patterns yet (other than "gliders" like in normal CGoL) but these might still exist in a different form. 
 
-Parts of this code are highly inefficient/are not very concise and JS is not the best fit for this problem, but it was sufficient enough to get something to visually experiment with the cell automaton. 
+Parts of this code are highly inefficient and not well thought through (as of February 2020). JS is definitely not a good fit for this problem, but it was sufficient enough to get something to visually experiment with the cell automaton. 
