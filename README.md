@@ -13,7 +13,8 @@ One tick in CGoL updates all cells in the grid. however, here one tick updates a
 ## Observations
 After a certain time the automaton 
 - either gets to a stable state where no more cells update
-- or the updates in the grid grow exponentially over time (especially when the grid is bigger). 
+- the updates in the grid grow exponentially over time (especially when the grid is bigger)
+- or (most commonly) the updates even out where on average more or less all cells update at once and approach a classic CGoL like situation. 
 
 ## Also
 Even though the automaton is a very chaotic system, there seem to be some stable "zebra" looking regions on the grid, where no changes seem to occur for some time. 
