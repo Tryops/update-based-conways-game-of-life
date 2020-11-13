@@ -1,4 +1,18 @@
+body {
+	margin: 0 auto;
+	width: 500px;
+	padding: 10px;
+}
 
+#control {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+button {
+	margin: 5px;
+}
 
 canvas {
 	border: 1px solid black;
