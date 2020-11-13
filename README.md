@@ -8,7 +8,7 @@ This is in contrast to the traditional CGoL, where all cells in the grid are upd
 Here, the updates spread like waves through the 2D grid. 
 One tick in CGoL updates all cells in the grid. however, here one tick updates all the queued cells that should be updated if their neighbors updated. 
 
-<div align="center"><img src="res/running-automaton.gif" width="200px"/></div>
+<div align="center"><img src="res/running-automaton.gif" width="360px"/></div>
 
 ## Observations
 After a certain time the automaton 
